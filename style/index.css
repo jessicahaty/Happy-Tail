@@ -1,0 +1,31 @@
+.bg-principal {
+    background-color: #7fc5dd;
+}
+
+.bg-principal-adocao {
+    background-color: #7fc5dd; /* Substitua 'yourColor' pelo código da cor desejada */
+    margin: 0; /* Remove a margem */
+    padding: 0; /* Remove o preenchimento */
+    width: 100%; /* Garante que a largura ocupe 100% da tela */
+}
+
+.btn-azul{
+    transition: transform 0.3s ease;
+}
+
+.btn-azul:hover {
+    transform: scale(1.1); 
+    background-color: #7fc5dd !important; 
+}
+
+.texto-azul {
+    color: #7fc5dd;
+}
+
+.btn-cadastro {
+    transition: transform 0.3s ease;
+}
+
+.btn-cadastro:hover {
+    transform: scale(1.1); 
+}
